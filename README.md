@@ -1,10 +1,28 @@
-# Hi, I'm Hakan Ozturk
-
-Unity Game Developer with nearly 3 years of professional experience building mobile games at MobGe.
-
-I have contributed to shipped hypercasual, hybrid casual, idle action and action PvP projects, working on gameplay features, UI flows, player progression, profile/stat systems, rewards and configuration-driven content.
-
-Currently, I focus on building production-ready Unity game systems and improving my skills in mobile performance, gameplay architecture and PvP development.
+<table>
+  <tr>
+    <td align="center">
+      <h1>Hi, I'm Hakan Ozturk</h1>
+      <h3>Unity Game Developer | Mobile Games | Gameplay, UI, Progression and PvP Systems</h3>
+      <p>
+        Unity Game Developer with nearly 3 years of professional experience building mobile games at MobGe.
+      </p>
+      <p>
+        I have contributed to shipped hypercasual, hybrid casual, idle action and action PvP projects, working on gameplay features, UI flows, player progression, profile/stat systems, rewards and configuration-driven content.
+      </p>
+      <p>
+        Currently, I focus on building production-ready Unity game systems and improving my skills in mobile performance, gameplay architecture and PvP development.
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/hakan-%C3%B6zt%C3%BCrk-8058b818a/">
+          <img src="https://img.shields.io/badge/LinkedIn-Hakan%20Ozturk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:MAIL_ADRESINI_BURAYA_YAZ">
+          <img src="https://img.shields.io/badge/Email-Contact%20Me-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
@@ -17,21 +35,34 @@ Currently, I focus on building production-ready Unity game systems and improving
 
 ## Focus Areas
 
-- Unity mobile game development
-- Gameplay and UI systems
-- Player progression and reward systems
-- Configuration-driven game content
-- Mobile performance
-- PvP gameplay development
+<table>
+  <tr>
+    <td>Unity mobile game development</td>
+    <td>Gameplay and UI systems</td>
+  </tr>
+  <tr>
+    <td>Player progression and reward systems</td>
+    <td>Configuration-driven game content</td>
+  </tr>
+  <tr>
+    <td>Mobile performance</td>
+    <td>PvP gameplay development</td>
+  </tr>
+</table>
 
-## GitHub Activity
+## GitHub Stats
 
-Most of my recent contributions are in private/company repositories, so public GitHub stats may not fully reflect my development activity.
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hakanoztt&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanoztt&layout=compact&theme=github_dark&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanoztt&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hakan%20Ozturk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-%C3%B6zt%C3%BCrk-8058b818a/)
+<p>
+  <a href="https://www.linkedin.com/in/hakan-%C3%B6zt%C3%BCrk-8058b818a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hakan%20Ozturk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hakanozturk60503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
