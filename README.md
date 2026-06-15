@@ -18,14 +18,14 @@ Currently, I am improving my skills in production-ready Unity game systems, mobi
 
 ---
 
-## 🌐 Socials
+## 🔗 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hakan%20Ozturk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-%C3%B6zt%C3%BCrk-8058b818a/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hakanozturk60503@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-%C3%B6zt%C3%BCrk-8058b818a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hakanozturk60503@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -38,7 +38,7 @@ Currently, I am improving my skills in production-ready Unity game systems, mobi
 
 ---
 
-## 🎮 Focus Areas
+## 🎮 Focus Areas:
 
 <table>
   <tr>
@@ -61,10 +61,12 @@ Currently, I am improving my skills in production-ready Unity game systems, mobi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hakanoztt&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hakanoztt&theme=dark&hide_border=false" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Hakanoztt&theme=dark&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanoztt&layout=compact&theme=github_dark&hide_border=false" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanoztt&layout=compact&theme=github_dark&hide_border=false" />
+</p>
