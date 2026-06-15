@@ -6,15 +6,6 @@ I have contributed to shipped hypercasual, hybrid casual, idle action and action
 
 Currently, I focus on building production-ready Unity game systems and improving my skills in mobile performance, gameplay architecture and PvP development.
 
-## Focus Areas
-
-- Unity mobile game development
-- Gameplay and UI systems
-- Player progression and reward systems
-- Configuration-driven game content
-- Mobile performance
-- PvP gameplay development
-
 ## Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -24,9 +15,20 @@ Currently, I focus on building production-ready Unity game systems and improving
 ![Mobile Games](https://img.shields.io/badge/Mobile%20Games-1F6FEB?style=for-the-badge)
 ![Game Development](https://img.shields.io/badge/Game%20Development-238636?style=for-the-badge)
 
-## GitHub Stats
+## Focus Areas
 
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakanoztt&show_icons=true&theme=github_dark&hide_border=true)
+- Unity mobile game development
+- Gameplay and UI systems
+- Player progression and reward systems
+- Configuration-driven game content
+- Mobile performance
+- PvP gameplay development
+
+## GitHub Activity
+
+Most of my recent contributions are in private/company repositories, so public GitHub stats may not fully reflect my development activity.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hakanoztt&theme=github-dark-blue&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanoztt&layout=compact&theme=github_dark&hide_border=true)
 
