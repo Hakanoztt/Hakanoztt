@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hakan Ozturk
+# Hi👋, I'm Hakan Ozturk
 
 ### Unity Game Developer | Mobile Games | Gameplay, UI, Progression and PvP Systems
 
